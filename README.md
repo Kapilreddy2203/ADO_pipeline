@@ -1,2 +1,1 @@
-# ADO_pipeline
-All ADO pipelines
+[![Build Status](https://dev.azure.com/venkat10840/Databrciks/_apis/build/status/Databricks_Demo?branchName=main)](https://dev.azure.com/venkat10840/Databrciks/_build/latest?definitionId=2&branchName=main)
